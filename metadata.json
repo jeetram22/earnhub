@@ -1,0 +1,6 @@
+{
+  "name": "EarnHub",
+  "description": "A legitimate, transparent online rewards platform where users earn verified rewards by completing approved tasks, surveys, and learning opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
